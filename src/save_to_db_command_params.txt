@@ -1,0 +1,16 @@
+--dbhost
+localhost
+--dbport
+3306
+--dbuser
+root
+--nodbpass
+yes
+--dbname
+antarticle
+--topic
+stories2
+--kfkhosts
+localhost:9092
+--zkhosts
+localhost:2181

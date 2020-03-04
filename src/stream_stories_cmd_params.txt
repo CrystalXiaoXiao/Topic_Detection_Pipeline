@@ -1,0 +1,12 @@
+--datafile
+stories_json/sample_100TechnologyStories.json
+--maxstories
+100
+--topic
+stories
+--kfkhosts
+localhost:9002
+--zkhosts
+localhost:2181
+--latency
+1

@@ -1,0 +1,14 @@
+--chkpdir
+./checkpoint
+--batchsec
+5
+--topic
+stories
+--savetopic
+stories2
+--esindex
+topics
+--kfkhosts
+localhost:9092
+--zkhosts
+localhost:2181
